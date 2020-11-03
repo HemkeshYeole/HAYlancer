@@ -1,0 +1,132 @@
+body{
+    text-align: center;
+    background-color:#EAF6F6 ;
+
+   
+    
+} 
+h1{
+    font-family: 'Cookie', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+ 
+
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    color: #66BFBF
+    
+}
+ h3{
+    font-family: 'Merriweather', serif;
+    font-size:20px; 
+    color: #11999E;
+ }
+ p{
+    font-family: 'Merriweather', serif;
+    font-size:20px; 
+ }
+ a{
+    color: #11999E;
+    margin: 50px 20px;
+    font-size: 20px;
+ }
+.subtile{
+    font-weight: normal;
+}
+
+.top{
+  
+    padding-top: 200px;
+    position: relative;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+     border-color: grey;
+      height:1px;
+      width: 6%;
+}
+.profile-pic{
+ width: 200px;
+ height: 200px;
+   
+}
+.bottom-container{
+    background-color: #66bfbf;
+    color:#11999E ;
+    padding: 30px;
+}
+
+.cloud-top{
+    position: absolute;
+   right: 300px;
+   top:  50px;
+    
+}
+.cloud-bottom{
+    position: absolute;
+    bottom: 300px;
+    left: 200px;
+}
+
+.skill-row {
+    width:50% ;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-pic{
+    width: 35%;
+    float: left;
+    margin-right:30px;
+   
+}
+ 
+.swimming{
+    width: 25%;
+    float: right;
+    margin-left:30px;
+    height:35%;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 17px;
+    font-weight: 100;
+    padding: 12px;
+    background-color: #66BFBF;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    background: #66BFBF;
+    border: solid #000000 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 1px;
+    border-radius:10px;
+    text-decoration: none;
+ }
+  
+.ptext
+{
+    color: #40514E;
+}
+.copy{
+    color: #EAF6F6;
+    font-size: 16px;
+}
+    
